@@ -1,4 +1,4 @@
-### I'm Damian - aka [ZTK][website] 
+### I'm Damian
 
 ## I'm Fullstack Developer!!
 
