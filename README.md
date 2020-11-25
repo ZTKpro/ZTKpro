@@ -29,7 +29,13 @@
 ### Experience:
 
 - Fed - 07.2019 - 09.2019 
-- [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+
+- [<img align="left" alt="dswebiste.com" width="22px" src="https://raw.githubusercontent.com/ZTKpro/ZTKpro/main/Mask%20Group%201.png" />][website] DS website - 09.2019 - Now 
+
+- [<img align="left" alt="edumat-dev.netlify.com/#/" width="22px" src="https://media-exp1.licdn.com/dms/image/C560BAQEp_ksqosMO-Q/company-logo_200_200/0?e=1614211200&v=beta&t=smbL4LfQuggCi4NmqPWFsAN-nk7W8KowM7ztY5Tj6_g" />][edumat] Edumat - 10.2019 - 04.2020 
+
+- [<img align="left" alt="Aexol.com" width="22px" src="https://media-exp1.licdn.com/dms/image/C4D0BAQHVEukGhQxfWw/company-logo_200_200/0?e=1614211200&v=beta&t=ZCT7ehImfrKgnGw8QRUiEf8BN5Vl1O8NwGIwmPSiDoE" />][aexol] Aexol.com - 04.2020 - 09.2020
+
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -45,6 +51,9 @@
 [website]: http://www.dswebsite.pl
 [linkedin]: https://www.linkedin.com/in/dszmurlo/
 [facebook]: https://www.facebook.com/profile.php?id=100007840545965
+
+[edumat]: edumat-dev.netlify.com/#/
+[aexol]: Aexol.com
 
 
 <!--
