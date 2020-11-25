@@ -39,7 +39,7 @@
 
 
 
-[website]: https://www.dswebsite.pl
+[website]: http://www.dswebsite.pl
 [linkedin]: https://www.linkedin.com/in/dszmurlo/
 [facebook]: https://www.facebook.com/profile.php?id=100007840545965
 
