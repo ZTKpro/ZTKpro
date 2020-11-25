@@ -1,5 +1,7 @@
 ## I'm Damian
 
+I front end developer with over 2 years of experience. I am looking for a job that challenges me every day. Where I will have unlimited development opportunities.
+
 ## I'm Fullstack Developer!!
 
 - 🔭 I’m currently Looking a job
