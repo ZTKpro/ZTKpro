@@ -1,4 +1,4 @@
-## I'm Damian
+# I'm Damian Szmurło 
 
  I front end developer with over 2 years of experience.<br/>  I am looking for a job that challenges me every day. <br/>  Where I will have unlimited development opportunities.
 
@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning Node.js
 - ⚡ Fun fact: I'm training MMA.
 
-### Languages and Tools:
+## Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -26,7 +26,7 @@
 
 <br/>
 
-### Experience:
+## Experience:
 
 
 
@@ -38,7 +38,7 @@
 
 - Fed - 07.2019 - 09.2019 
 
-### Connect with me:
+## Connect with me:
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
