@@ -1,4 +1,4 @@
-# I'm Damian Szmurło 
+# Damian Szmurło 
 
  I front end developer with over 2 years of experience.<br/>  I am looking for a job that challenges me every day. <br/>  Where I will have unlimited development opportunities.
 
