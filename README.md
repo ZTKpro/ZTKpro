@@ -32,11 +32,6 @@
 
 ### [<img align="left" alt="dswebiste.com" width="30px" src="https://raw.githubusercontent.com/ZTKpro/ZTKpro/main/Mask%20Group%201.png" />][website] DS website - 09.2019 - Now 
 
-### [<img align="left" alt="Aexol.com" width="36px" src="https://media-exp1.licdn.com/dms/image/C4D0BAQHVEukGhQxfWw/company-logo_200_200/0?e=1614211200&v=beta&t=ZCT7ehImfrKgnGw8QRUiEf8BN5Vl1O8NwGIwmPSiDoE" />][aexol] Aexol.com - 04.2020 - 09.2020
-
-### [<img align="left" alt="edumat-dev.netlify.com/#/" width="36px" src="https://media-exp1.licdn.com/dms/image/C560BAQEp_ksqosMO-Q/company-logo_200_200/0?e=1614211200&v=beta&t=smbL4LfQuggCi4NmqPWFsAN-nk7W8KowM7ztY5Tj6_g" />][edumat] Edumat - 10.2019 - 04.2020 
-
-###  Fed - 07.2019 - 09.2019 
 
 ## Connect with me:
 
