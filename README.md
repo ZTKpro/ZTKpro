@@ -30,7 +30,7 @@
 
 
 
-### [<img align="left" alt="dswebiste.com" width="30px" src="https://raw.githubusercontent.com/ZTKpro/ZTKpro/main/Mask%20Group%201.png" />][website] DS website - 09.2019 - Now 
+### <img align="left" alt="dswebiste.com" width="30px" src="https://raw.githubusercontent.com/ZTKpro/ZTKpro/main/Mask%20Group%201.png" /> DS website - 09.2019 - Now 
 
 
 ## Connect with me:
