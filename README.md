@@ -1,6 +1,6 @@
 # Damian Szmurło 
 
- I am Front-end developer with over 2 years of commercial experience. Currently looking for a new opportunities in which I will be able to learn new technologies and develop my programming skill set. I'm looking forward to cooperate with you!
+ I am Front-end developer with over 3 years of commercial experience. Currently looking for a new opportunities in which I will be able to learn new technologies and develop my programming skill set. I'm looking forward to cooperate with you!
 
 ## I'm Fullstack Developer!!
 
