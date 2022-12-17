@@ -1,8 +1,12 @@
 # Damian Szmurło 
 
- I am Front-end developer with over 4 years of commercial experience. Currently looking for a new opportunities in which I will be able to learn new technologies and develop my programming skill set. I'm looking forward to cooperate with you!
+ I am a front-end programmer with several years of experience. In my professional career, I have had the opportunity to work on various projects, both small and large, requiring a variety of technologies.
 
-## I'm Fullstack Developer!!
+I gained experience, among others, by working on applications based on the Gatsby, React and Vue frameworks. This allowed me to acquire skills in creating user interfaces and managing the state of the application using technologies such as Redux or graphql.
+
+I always try to stay up to date with technical innovations and improve my programming skills. In my work, I place particular emphasis on the quality and readability of the code, as well as adapting the application to the needs of the user.
+
+I enjoy working in a team and collaborating with other programmers, but I can also work effectively independently. I am open to new challenges and always eager to learn new technologies and tools.
 
 - 🔭 I’m currently Looking a job
 - 🌱 I’m currently learning Node.js
