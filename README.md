@@ -2,6 +2,8 @@
 
  I am a front-end programmer with several years of experience. In my professional career, I have had the opportunity to work on various projects, both small and large, requiring a variety of technologies.
 
+![programer](https://user-images.githubusercontent.com/48288156/209432145-6f03e80d-4177-44b0-b3f7-a0665fe3569b.gif)
+
 I gained experience, among others, by working on applications based on the Gatsby, React and Vue frameworks. This allowed me to acquire skills in creating user interfaces and managing the state of the application using technologies such as Redux or graphql.
 
 I always try to stay up to date with technical innovations and improve my programming skills. In my work, I place particular emphasis on the quality and readability of the code, as well as adapting the application to the needs of the user.
