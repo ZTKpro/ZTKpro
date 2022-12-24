@@ -19,22 +19,10 @@ I enjoy working in a team and collaborating with other programmers, but I can al
 
 ### <img align="left" alt="dswebiste.com" width="30px" src="https://raw.githubusercontent.com/ZTKpro/ZTKpro/main/Mask%20Group%201.png" /> DS website - 09.2019 - Now 
 
-
-## Connect with me:
-
-[<img align="left" alt="codeSTACKr | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="30px" src="https://simpleicons.org/icons/facebook.svg" />][facebook]
-
-<br />
-
-
-
-
-[linkedin]: https://www.linkedin.com/in/dszmurlo/
-[facebook]: https://www.facebook.com/profile.php?id=100007840545965
-
-[edumat]: edumat-dev.netlify.com/#/
-[aexol]: Aexol.com
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/dszmurlo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dszmurlo/" height="30" width="40" /></a>
+</p>
 
 
 <!--
