@@ -4,12 +4,6 @@
 
 ![programer](https://user-images.githubusercontent.com/48288156/209432145-6f03e80d-4177-44b0-b3f7-a0665fe3569b.gif)
 
-I gained experience, among others, by working on applications based on the Gatsby, React and Vue frameworks. This allowed me to acquire skills in creating user interfaces and managing the state of the application using technologies such as Redux or graphql.
-
-I always try to stay up to date with technical innovations and improve my programming skills. In my work, I place particular emphasis on the quality and readability of the code, as well as adapting the application to the needs of the user.
-
-I enjoy working in a team and collaborating with other programmers, but I can also work effectively independently. I am open to new challenges and always eager to learn new technologies and tools.
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
  
