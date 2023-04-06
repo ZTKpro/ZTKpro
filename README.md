@@ -1,6 +1,6 @@
 # Damian Szmurło 
 
- I am a Full stack programmer with several years of experience. In my professional career, I have had the opportunity to work on various projects, both small and large, requiring a variety of technologies.
+ I am programmer with several years of experience. In my professional career, I have had the opportunity to work on various projects, both small and large, requiring a variety of technologies.
 
 ![programer](https://user-images.githubusercontent.com/48288156/209432145-6f03e80d-4177-44b0-b3f7-a0665fe3569b.gif)
 
