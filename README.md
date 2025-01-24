@@ -3,6 +3,7 @@
  I am programmer with several years of experience. In my professional career, I have had the opportunity to work on various projects, both small and large, requiring a variety of technologies.
 
 ![programer](https://user-images.githubusercontent.com/48288156/209432145-6f03e80d-4177-44b0-b3f7-a0665fe3569b.gif)
+<img src="https://raw.githubusercontent.com/ZTKpro/ZTKpro/output/snake.svg" alt="Snake animation" />
                     
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -11,6 +12,3 @@
 
 https://app.hackthebox.com/profile/1687667
 https://dswebsite.webflow.io/
-<!--
-**ZTKpro/ZTKpro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
